@@ -16,6 +16,8 @@ interviews or just to up your game.
     - [SQL](#sql)
     - [NoSQL](#nosql)
 1. [API Design](#api)
+1. [Web Technology](#web)
+1. [Security](#security)
 1. [Hodge Podge](#hodge)
 1. [Tools for Practice](#practice)
 
@@ -38,6 +40,7 @@ interviews or just to up your game.
 * <a href="https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers" target="_blank">Code Mentor | 21 Essential JS Interview Questions</a>
 * <a href="http://www.altitudelabs.com/blog/what-is-the-javascript-event-loop/" target="_blank">Altitude Labs | What is the Javascript Event Loop?</a>
 * <a href="http://davidshariff.com/js-quiz/" target="_blank">Javascript Web Quiz</a>
+* <a href="https://github.com/lukehoban/es6features" target="_blank">Overview of ES6 Features</a>
 
 ####[[↑]](#toc) <a name='algos'>Algorithms:</a>
 * <a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/" target="_blank">Geek for Geeks | Fundamentals of Algorithms</a>
@@ -47,6 +50,7 @@ interviews or just to up your game.
 * <a href="http://www.crazyforcode.com/algorithm/" target="_blank">Crazy for Code | Common Algorithms</a>
 
 ####[[↑]](#toc) <a name='scalability'>Scalability:</a>
+* <a href="https://www.youtube.com/watch?v=-W9F__D3oY4" target="_blank">Harvard CS75 | Scalability</a>
 * <a href="http://www.fromdev.com/2013/07/architect-interview-questions-and-answers.html" target="_blank">20 Software Architect Questions & Answers for Scalability</a>
 * <a href="https://www.digitalocean.com/community/tutorials/what-is-high-availability" target="_blank">What is High Availability?</a>
 * <a href="http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html" target="_blank">High Scalability | Scaling to 11 Million Users</a>
@@ -64,13 +68,21 @@ interviews or just to up your game.
 * <a href="http://www.sql-join.com/" target="_blank">SQL Joins</a>
 * <a href="http://dataconomy.com/sql-vs-nosql-need-know/" target="_blank">Dataconomy | SQL vs NoSQL - What You Need to Know</a>
 * <a href="https://support.microsoft.com/en-us/kb/317723" target="_blank">Microsoft | Race Conditions & Deadlocks</a>
-* <a href="" target="_blank"></a>
+* <a href="http://rebelic.nl/2011/05/28/the-four-categories-of-nosql-databases/" target="_blank">Types of noSQL Databases</a>
 * <a href="" target="_blank"></a>
 
 ####[[↑]](#toc) <a name='api'>API Design:</a>
 * <a href="https://zapier.com/learn/apis/" target="_blank">Zapier | An Intro to APIs</a>
 * <a href="http://www.sitepoint.com/developers-rest-api/" target="_blank">What is a REST API?</a>
 * <a href="https://codeplanet.io/principles-good-restful-api-design/" target="_blank">CodePlanet | Principles of Good RESTful API Design</a>
+
+####[[↑]](#toc) <a name='web'>Web Technology:</a>
+* <a href="https://github.com/alex/what-happens-when" target="_blank">What Happens When (You Type google.com and press enter)</a>
+* <a href="https://www.youtube.com/watch?v=8KuO4r5CHjM" target="_blank">Harvard CS75 | HTTP</a>
+
+####[[↑]](#toc) <a name='security'>Security:</a>
+* <a href="https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/" target="_blank">Auth0 | Cookies vs. Tokens</a>
+* <a href="http://www.veracode.com/security/web-application-vulnerabilities" target="_blank">Veracode | Web Application Vulnerabilities</a>
 
 ####[[↑]](#toc) <a name='hodge'>Hodge Podge:</a>
 * <a href="https://github.com/ratracegrad/Full-Stack-Interview-Questions" target="_blank">Full Stack Interview Questions</a>
