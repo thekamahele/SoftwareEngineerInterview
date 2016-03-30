@@ -20,6 +20,7 @@ interviews or just to up your game.
 1. [Security](#security)
 1. [Hodge Podge](#hodge)
 1. [Tools for Practice](#practice)
+1. [Questions for Interviewers](#interviewers)
 
 ####[[↑]](#toc) <a name='html'>HTML:</a>
 * <a href="http://www.skilledup.com/articles/html-html5-interview-questions-answers" target="_blank">Skilled Up | HTML & HTML5 Interview Questions</a>
@@ -83,6 +84,7 @@ interviews or just to up your game.
 ####[[↑]](#toc) <a name='security'>Security:</a>
 * <a href="https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/" target="_blank">Auth0 | Cookies vs. Tokens</a>
 * <a href="http://www.veracode.com/security/web-application-vulnerabilities" target="_blank">Veracode | Web Application Vulnerabilities</a>
+* <a href="https://blog.risingstack.com/web-authentication-methods-explained/" target="_blank">Rising Stack | Web Authentication Methods Explained</a>
 
 ####[[↑]](#toc) <a name='hodge'>Hodge Podge:</a>
 * <a href="https://github.com/ratracegrad/Full-Stack-Interview-Questions" target="_blank">Full Stack Interview Questions</a>
@@ -94,3 +96,9 @@ interviews or just to up your game.
 * <a href="www.leetcode.com" target="_blank">LeetCode | Algorithm Practice</a>
 * <a href="www.pramp.com" target="_blank">Pramp | Peer Technical Interviews</a>
 * <a href="www.interviewing.io" target="_blank">Interviewing.io | Interview with Engineers</a>
+
+####[[↑]](#toc) <a name='interviewers'>Questions for Interviewers:</a>
+* <a href="http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/" target="_blank">Questions I'm Asking in Interviews</a>
+* <a href="https://github.com/ChiperSoft/InterviewThis" target="_blank">Interview This! (More Questions for your Interviewer)</a>
+
+
