@@ -9,6 +9,7 @@ interviews or just to up your game.
 1. [HTML](#html)
 1. [CSS](#css)
 1. [JavaScript](#js)
+1. [React](#react)
 1. [Algorithms](#algos) 
 1. [Scalability](#scalability)
 1. [System Design](#system)
@@ -20,6 +21,7 @@ interviews or just to up your game.
 1. [Security](#security)
 1. [Hodge Podge](#hodge)
 1. [Tools for Practice](#practice)
+1. [Additional Resources](#additional)
 1. [Questions for Interviewers](#interviewers)
 
 ####[[↑]](#toc) <a name='html'>HTML:</a>
@@ -52,6 +54,14 @@ ES6 and Beyond:
 * <a href="https://webapplog.com/es6/" target="_blank">Top 10 ES6 Features Every Busy JS Developer Must Know</a>
 * <a href="https://node.university/blog/498412/es7-es8-post" target="_blank">ES7 + ES8</a>
 * <a href="https://medium.freecodecamp.org/es9-javascripts-state-of-art-in-2018-9a350643f29c" target="_blank">ES2018 (ES9)</a>
+
+####[[↑]](#toc) <a name='react'>React:</a>
+
+* <a href="https://tylermcginnis.com/react-interview-questions/">Tyler McGinnis Interview Questions</a>
+* <a href="https://www.toptal.com/react/interview-questions">Toptal Interview Questions</a>
+* Quiz<a href="http://interview-questions-247.appspot.com/reactjs-interview-questions-set-1">Set 1</a> | <a href="http://interview-questions-247.appspot.com/reactjs-interview-questions-set-2">Set 2</a> | <a href="http://interview-questions-247.appspot.com/reactjs-interview-questions-set-3">Set 3</a>
+* <a href="https://www.codementor.io/blog/5-essential-reactjs-interview-questions-du1084ym1">Code Mentor</a>
+* <a href="https://www.fullstack.cafe/blog/top-26-react-redux-interview-questions-to-brush-up-2018">Fullstack Cafe's 2018 Brushup Questions</a>
 
 ####[[↑]](#toc) <a name='algos'>Algorithms:</a>
 * <a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/" target="_blank">Geek for Geeks | Fundamentals of Algorithms</a>
@@ -106,6 +116,10 @@ ES6 and Beyond:
 * <a href="www.leetcode.com" target="_blank">LeetCode | Algorithm Practice</a>
 * <a href="www.pramp.com" target="_blank">Pramp | Peer Technical Interviews</a>
 * <a href="www.interviewing.io" target="_blank">Interviewing.io | Interview with Engineers</a>
+
+####[[↑]](#toc) <a name='additional'>Additional Resources:</a>
+* <a href="https://www.fullstack.cafe/">Fullstack Cafe</a>
+
 
 ####[[↑]](#toc) <a name='interviewers'>Questions for Interviewers:</a>
 * <a href="http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/" target="_blank">Questions I'm Asking in Interviews</a>
