@@ -35,14 +35,23 @@ interviews or just to up your game.
 
 ####[[↑]](#toc) <a name='js'>JavaScript:</a>
 * <a href="https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.d48zv7dmn" target="_blank">10 Interview Questions Every JavaScript Developer Should Know</a>
-* <a href="https://www.toptal.com/javascript/interview-questions" target="_blank">Toptal | 25 Essential JavaScript Interview Questions</a>
+* <a href="https://www.toptal.com/javascript/interview-questions" target="_blank">Toptal | 37 Essential JavaScript Interview Questions</a>
+* <a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions" target="_blank">123 Essential Javascript Interview Questions</a>
 * <a href="http://thatjsdude.com/interview/js2.html" target="_blank">That JS Dude | JS Interview Questions</a>
 * <a href="http://www.skilledup.com/articles/20-must-know-javascript-interview-qa" target="_blank">SkilledUp | 20 Must Know JS Interview Questions</a>
 * <a href="https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers" target="_blank">Code Mentor | 21 Essential JS Interview Questions</a>
 * <a href="http://www.altitudelabs.com/blog/what-is-the-javascript-event-loop/" target="_blank">Altitude Labs | What is the Javascript Event Loop?</a>
 * <a href="http://davidshariff.com/js-quiz/" target="_blank">Javascript Web Quiz</a>
-* <a href="https://github.com/lukehoban/es6features" target="_blank">Overview of ES6 Features</a>
 
+
+ES6 and Beyond:
+
+* <a href="https://github.com/lukehoban/es6features" target="_blank">Overview of ES6 Features</a>
+* <a href="https://www.webquestions.co/questions/es6-interview-questions-and-answers" target="_blank">ES6 Interview Q & A</a>
+* <a href="https://davidwalsh.name/async-await" target="_blank">Async & Await</a>
+* <a href="https://webapplog.com/es6/" target="_blank">Top 10 ES6 Features Every Busy JS Developer Must Know</a>
+* <a href="https://node.university/blog/498412/es7-es8-post" target="_blank">ES7 + ES8</a>
+* <a href="https://medium.freecodecamp.org/es9-javascripts-state-of-art-in-2018-9a350643f29c" target="_blank">ES2018 (ES9)</a>
 ####[[↑]](#toc) <a name='algos'>Algorithms:</a>
 * <a href="http://www.geeksforgeeks.org/fundamentals-of-algorithms/" target="_blank">Geek for Geeks | Fundamentals of Algorithms</a>
 * <a href="http://geeksquiz.com/commonly-asked-algorithm-interview-questions-set-1/" target="_blank">Geeks Quiz | Commonly Asked Algorithm Questions</a>
